@@ -14,5 +14,7 @@ for (i = 0; i < 8; i++)
 _putchar(school[i]);
 }
 _putchar(10);
-return(0);
+
+return (0);
+
 }
